@@ -17,6 +17,11 @@
       "description": "Full auto installation. Go to the Customizations tab in the panel and select 'Enabled' under the 'Geyser Auto Installer' option. Then, restart and connect to your server with your Java IP and port. See [Apex's article](https://apexminecrafthosting.com/geysermc/) for more details."
     },
     {
+      "name": "BerryByte",
+      "url": "https://berrybyte.net/"
+      "description": "Easy automatic setup by selecting Geyser during checkout, or existing servers can head to the Settings tab, under Change Software, select Geyser."
+    },
+    {
       "name": "Cloud Nord",
       "url": "https://cloudnord.net/",
       "description": "Go to their [Crossplay Server](https://cloudnord.net/minecraftcrossplay-server-hosting/) hosting section and order your server. Instructions on how to join are provided."
